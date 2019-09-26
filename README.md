@@ -3,7 +3,7 @@ This is a web application of polls and it is created by me during the learning p
 # Install dependencies
 pipenv install
 
-cd pollster
+cd untitled
 
 # Serve on localhost:8000
 python manage.py runserver
